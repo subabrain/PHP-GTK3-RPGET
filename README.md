@@ -3,7 +3,7 @@ A Tool to encrypt Files in PHP-GTK3
 
 ## HOWTO
 
-Just download and run the "rpget_neu.exe" File and you will see this:
+Just download and run the "rpget_neu.exe" and you will see this:
 
 ![grafik](https://github.com/subabrain/PHP-GTK3-RPGET/assets/7425736/eef5db88-275b-45cb-b9ac-131f75008602)
 
