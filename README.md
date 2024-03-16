@@ -18,7 +18,7 @@ Now you have to do the following:
 
 5. At Last choose a Key for encryption - it has to be 16 Chars long
 
-Now Press "Encrypt Files!".
+6. Now Press "Encrypt Files!".
 
 Go to your created output Folder and navigate to "phpgtk" and run the Command:
 
