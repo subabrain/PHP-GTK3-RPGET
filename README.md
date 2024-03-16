@@ -19,4 +19,4 @@ Now Press "Encrypt Files!".
 
 Go to your created output Folder and - 
 
-## Confratulations now you created a encrypted PHP-GTK 3 Application!
+### Congratulations now you created a encrypted PHP-GTK 3 Application!
