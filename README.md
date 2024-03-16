@@ -33,7 +33,7 @@ Important: in the "your_php_file.php" you have to set the
 
 ?>
 ```
-To your with this Tool encrypted Files ... thats all ;)
+to your, with this Tool encrypted Files ... thats all ;)
 
 ### Congratulations now you created a encrypted PHP-GTK 3 Application!
 
