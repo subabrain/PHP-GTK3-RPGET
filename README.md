@@ -1,5 +1,5 @@
 # PHP-GTK3-RPGET
-A Tool to encrypt files in PHP-GTK3
+A Tool to encrypt Files in PHP-GTK3
 
 ## HOWTO
 
