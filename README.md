@@ -7,7 +7,7 @@ Just download and run the "rpget_neu.exe" and you will see this:
 
 ![grafik](https://github.com/subabrain/PHP-GTK3-RPGET/assets/7425736/eef5db88-275b-45cb-b9ac-131f75008602)
 
-Now you have to do the following:
+#### Now you have to do the following:
 
 1. For Path to PHP Folder use the PHP Folder from here: https://github.com/subabrain/PHP-GTK3-Encrypt
 2. Choose the Path to your Folder where the PHP-GTK 3 Files are in
