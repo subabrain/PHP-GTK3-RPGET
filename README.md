@@ -37,6 +37,6 @@ To your with this Tool encrypted Files ... thats all ;)
 
 ### Congratulations now you created a encrypted PHP-GTK 3 Application!
 
-Additionaly you can add an .exe to Start the Application - go here: https://github.com/subabrain/PHP-Exe-Tool
+Additionally you can add an .exe to Start the Application - go here: https://github.com/subabrain/PHP-Exe-Tool
 
 Good Luck!
