@@ -16,7 +16,7 @@ Now you have to do the follwoing:
 
 ####  Important - the PHP-GTK 3 Sourcecode has to be without the PHP Brackets!
 
-5. At Last choose a Key for encryotion . it has to be 16 Chars long
+5. At Last choose a Key for encryption - it has to be 16 Chars long
 
 Now Press "Encrypt Files!".
 
